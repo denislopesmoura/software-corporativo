@@ -1,0 +1,6 @@
+persistence\impl\DefaultBidDAO.class
+business\BidService.class
+business\impl\DefaultBidService.class
+model\Bid.class
+persistence\BidDAO.class
+model\Bidder.class
